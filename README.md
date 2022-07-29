@@ -11,6 +11,8 @@
 运行代码[Reptile_Baidu_images.py](https://github.com/Jy-stdio/Reptile-Baidu-images/blob/main/Reptile_Baidu_images.py)
 在输入框中输入想要查询下载的图像，即可进行批量下载。
 
+![d97k56](https://ossjiyaoliu.oss-cn-beijing.aliyuncs.com/uPic/d97k56.png)
+
 ## 原理介绍
 1. 获取请求url
 2. 解析出图像对应的url
